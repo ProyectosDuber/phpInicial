@@ -1,3 +1,5 @@
-<?php phpinfo(); 
-//Mi comentario masss comentario
+<?php 
+
+header("Location: vista/pages/index.php");
+
 ?>
