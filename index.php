@@ -1,3 +1,3 @@
 <?php phpinfo(); 
-//Mi comentario
+//Mi comentario masss comentario
 ?>
